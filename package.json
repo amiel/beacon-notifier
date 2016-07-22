@@ -1,0 +1,27 @@
+{
+  "name": "beacon-notifier",
+  "version": "0.0.1",
+  "description": "Perform a POST request when a lightblue ibeacon is in range",
+  "main": "index.js",
+  "dependencies": {
+    "bleacon": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiel/beacon-notifier.git"
+  },
+  "keywords": [
+    "lightblue",
+    "ibeacon"
+  ],
+  "author": "Amiel Martin",
+  "license": "SEE LICENSE IN ./LICENSE",
+  "bugs": {
+    "url": "https://github.com/amiel/beacon-notifier/issues"
+  },
+  "homepage": "https://github.com/amiel/beacon-notifier#readme"
+}
